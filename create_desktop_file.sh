@@ -11,6 +11,7 @@ Name[en_US]=Notion.so
 Comment=Notion.so Desktop application for Linux
 Exec="${FULL_PATH}/notion-app"
 Terminal=false
+Categories=Application;
 Type=Application
 Icon=${FULL_PATH}/notion.png
 EOS
