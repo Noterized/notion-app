@@ -14,4 +14,4 @@ Terminal=false
 Type=Application
 Icon=${FULL_PATH}/notion.png
 EOS
-chmod +x Mattermost.desktop
+chmod +x Notion.desktop
