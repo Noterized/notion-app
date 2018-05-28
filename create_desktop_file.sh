@@ -7,6 +7,7 @@ FULL_PATH=`pwd`
 cd ${WORKING_DIR}
 cat <<EOS > Notion.desktop
 [Desktop Entry]
+Name=Notion
 Name[en_US]=Notion.so
 Comment=Notion.so Desktop application for Linux
 Exec="${FULL_PATH}/notion-app"
