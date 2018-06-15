@@ -17,3 +17,5 @@ Type=Application
 Icon=${FULL_PATH}/notion.png
 EOS
 chmod +x Notion.desktop
+## This can be updated if this path is not valid. 
+cp -p Notion.desktop ~/.local/share/applications
