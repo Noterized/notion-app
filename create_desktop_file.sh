@@ -19,4 +19,4 @@ EOS
 chmod +x Notion.desktop
 ## This can be updated if this path is not valid. 
 ## cp -p Notion.desktop ~/.local/share/applications
-[ ! -d "$~/.local/share/applications" ] && { cd ~/.local/share; mkdir applications; cd ${WORKING_DIR}; cp -p Notion.desktop ~/.local/share/applications; } || { cd ${WORKING_DIR}; cp -p Notion.desktop ~/.local/share/applications; }
+[ ! -d "$~/.local/share/applications" ] && { cd ~/.local/share; mkdir -p applications; cd ${WORKING_DIR}; cp -p Notion.desktop ~/.local/share/applications; } || { cd ${WORKING_DIR}; cp -p Notion.desktop ~/.local/share/applications; }
