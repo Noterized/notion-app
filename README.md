@@ -15,4 +15,5 @@ This is an Electron wrapper of notion.so for linux.
 There is no support from notion.so there is no offline functions; only online use.
 
 Thank you for trying it out.
+<br>
 -Sysdrum 
