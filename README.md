@@ -1,4 +1,4 @@
- # notion-app
+ # Notion-app
 Linux notion.so app <br>
 Currently this is a work in progress. At this time it allows you to run an electron app of Notion.so on your desktop.
 * A script has been provided to create the "notion.desktop" file run `./create_desktop_file.sh`.
@@ -8,9 +8,10 @@ Currently this is a work in progress. At this time it allows you to run an elect
 Thank you for trying it out.
 <br>
 This is an Electron wrapper of notion.so for linux. 
-But as of yet notion.so has still not built integration for or adopted the use of this project. I have reached out to them and recieved responses. Their feedback has been intresting but not postive. 
+<br>
+There is an updated build in the x64 branch that needs to be tested but does work.
 <br>
 As there is no support from notion.so to continue beyond personal online use.
 
 
--sysdrum 
+-Sysdrum 
