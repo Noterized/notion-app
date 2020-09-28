@@ -7,4 +7,5 @@ Currently this is a work in progress. At this time it allows you to run a 64 bit
 * If you are running arch or have issues launching the notion-app make sure you have `libgconf-2` installed.
 <br>
 Thank you for trying it out.
+<br>
 - Sysdrum
