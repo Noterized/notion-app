@@ -13,7 +13,7 @@ This is an Electron wrapper of notion.so for linux.
 
 <br>
 There is no support from notion.so there is no offline functions; only online use.
-
+<br>
 Thank you for trying it out.
 <br>
 -Sysdrum 
