@@ -8,8 +8,9 @@ Currently this is a work in progress. At this time it allows you to run an elect
 
 <br>
 This is an Electron wrapper of notion.so for linux. 
-<br>
-### There is an updated build in the x64 branch that needs to be tested but does work.
+
+#### There is an updated build in the x64 branch that needs to be tested but does work.
+
 <br>
 There is no support from notion.so there is no offline functions; only online use.
 
