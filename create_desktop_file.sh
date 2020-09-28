@@ -10,7 +10,7 @@ cat <<EOS > Notion.desktop
 Name=Notion
 Name[en_US]=Notion.so
 Comment=Notion.so Desktop application for Linux
-Exec="${FULL_PATH}/notion-app"
+Exec="${FULL_PATH}/notion-linux-app"
 Terminal=false
 Categories=Application;
 Type=Application
@@ -19,4 +19,4 @@ EOS
 chmod +x Notion.desktop
 ## This can be updated if this path is not valid. 
 ## cp -p Notion.desktop ~/.local/share/applications
-[ ! -d "$~/.local/share/applications" ] && { cd ~/.local/share; mkdir -p applications; cd ${WORKING_DIR}; cp -p Notion.desktop ~/.local/share/applications; } || { cd ${WORKING_DIR}; cp -p Notion.desktop ~/.local/share/applications; }
+[ ! -d "$~/.local/share/applications" ] && { cd ~/.local/share; mkdir applications; cd ${WORKING_DIR}; cp -p Notion.desktop ~/.local/share/applications; } || { cd ${WORKING_DIR}; cp -p Notion.desktop ~/.local/share/applications; }
