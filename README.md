@@ -12,8 +12,11 @@ This is an Electron wrapper of notion.so for linux.
 #### There is an updated build in the x64 branch that needs to be tested but does work.
 
 <br>
+
 There is no support from notion.so there is no offline functions; only online use.
+
 <br>
+
 Thank you for trying it out.
 <br>
 -Sysdrum 
